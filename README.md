@@ -2,7 +2,7 @@
 
 *Welcome to BPConsults—your partner in thin-film design, ellipsometry, and optical metrology.*
 
-## Services Offered
+## Core Services Offered
 **Thin-Film Coating Design & Ellipsometry Consulting**
 
 - Thin-film design and optimization
